@@ -10,5 +10,7 @@
 int main(int argc, char **argv) {
   printf("Austin Lempke!\n" );
   printf("Computer Science\n" );
+  printf("Eric Hinderer\n" );
+  printf("I am a computer science\n" );
   return 0;
 }
