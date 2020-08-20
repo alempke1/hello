@@ -1,4 +1,4 @@
-/** Austin Lempke and Eric Hinderer
+/** Austin Lempke and Eric Hinderer ehinderer469
 * 2020/09/19
 * A program that prints my name and my partners name in C
 *
