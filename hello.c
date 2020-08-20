@@ -8,6 +8,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-  printf("Austin Lempke\n", );
+  printf("Austin Lempke!\n" );
+  printf("Computer Science\n" );
   return 0;
 }
